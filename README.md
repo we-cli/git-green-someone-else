@@ -1,5 +1,17 @@
 # git-green-someone-lese
 
+Update: Github has made some restrictions on the "Contribution Graph", see [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile#commits)
+
+so, for __commits and contribution graph__ in a user profile, it works with any of the following are met:
+
+> - You are a collaborator on the repository or are a member of the organization that owns the repository.
+> - You have forked the repository.
+> - You have opened a pull request or issue in the repository.
+> - You have starred the repository.
+
+for __listing of contributors__ to a repo, it still works.
+
+
 ```plain
 $ cd your/project
 $ git green "Jayin Ton <tonjayin@gmail.com>"
