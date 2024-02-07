@@ -1,4 +1,4 @@
-# git-green-someone-lese
+# git-green-someone-else
 
 Update: Github has made some restrictions on the "Contribution Graph", see [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile#commits)
 
